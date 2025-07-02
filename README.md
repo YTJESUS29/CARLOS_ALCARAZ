@@ -2,7 +2,7 @@
 
 [![Comprehensive Markdown Crash Course](imagen/1.webp)]
 
-| **Dato** | **Información**|
+<center>| **Dato** | **Información**|
 |------------------------|-------------------------------------|
 | 📅 **Nacido**| 5 mayo 2003, El Palmar (Murcia, España) |
 | 📏 **Altura / Peso** | 1,83 m / 74 kg|
