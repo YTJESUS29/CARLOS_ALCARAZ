@@ -1,6 +1,6 @@
 # 🎾 Carlos Alcaraz Garfia
 
-[![Comprehensive Markdown Crash Course](img/1.webp)]
+[![Comprehensive Markdown Crash Course](imagen/1.webp)]
 
 | **Dato** | **Información**|
 |------------------------|-------------------------------------|
@@ -19,7 +19,7 @@
 
 - **Masters 1000:** Campeón en Monte‑Carlo (vs Musetti, su sexto título 1000) y Rome (vs Sinner, su séptimo) 
 
-[![Comprehensive Markdown Crash Course](img/2.webp)](https://www.marca.com/tenis/roland-garros/2025/06/08/carlos-alcaraz-firma-remontada-historica-sinner-final-larga.html)
+[![Comprehensive Markdown Crash Course](imagen/2.webp)](https://www.marca.com/tenis/roland-garros/2025/06/08/carlos-alcaraz-firma-remontada-historica-sinner-final-larga.html)
 
 
 
@@ -27,7 +27,7 @@
 
 - Logró títulos en las cuatro superficies (arcilla, césped, pista dura exterior e interior), siendo el más joven en la historia (21a 9m)
 
- [![Comprehensive Markdown Crash Course](img/3.webp)](https://www.atptour.com/es/news/queens-2025-domingo-final-alcaraz-lehecka)
+ [![Comprehensive Markdown Crash Course](imagen/3.webp)](https://www.atptour.com/es/news/queens-2025-domingo-final-alcaraz-lehecka)
 
 ---
 
@@ -43,7 +43,7 @@
   - Golpe favorito: drive; revés sólido a dos manos  
   - Resiliente mentalmente, con recuperaciones históricas en situaciones límite  
 
-[![Comprehensive Markdown Crash Course](img/4.webp)](https://www.eurosport.es/tenis/atp-alcaraz-carreno-samuel-lopez-ferrero-plan-viajes-torneos-2025-nueva-temporada-equipo-tecnico-australian-open_sto20065084/story.shtml)
+[![Comprehensive Markdown Crash Course](imagen/4.webp)](https://www.eurosport.es/tenis/atp-alcaraz-carreno-samuel-lopez-ferrero-plan-viajes-torneos-2025-nueva-temporada-equipo-tecnico-australian-open_sto20065084/story.shtml)
 ---
 
 ## 🎥 Videos destacados
@@ -69,7 +69,7 @@ Esta victoria reafirma la fortaleza y versatilidad de Alcaraz en superficies de 
 
 
 
-[![Comprehensive Markdown Crash Course](img/5.webp)](https://www.youtube.com/results?search_query=Roland+Garros+2025+%E2%80%93+Final+%C3%A9pica%3A)
+[![Comprehensive Markdown Crash Course](imagen/5.webp)](https://www.youtube.com/results?search_query=Roland+Garros+2025+%E2%80%93+Final+%C3%A9pica%3A)
 
 - **Roland Garros 2025 – Final épica**: 🎾 Roland Garros 2025 – Final épica
 En la final de Roland Garros 2025, se vivió una de las remontadas más impresionantes en la historia del tenis. El partido, que duró más de 5 horas, mostró no solo un nivel técnico extraordinario sino también una fortaleza mental sobresaliente por parte del ganador.
@@ -90,4 +90,4 @@ En la final de Roland Garros 2025, se vivió una de las remontadas más impresio
     Este triunfo consolidó al campeón como uno de los grandes del tenis moderno, dejando una huella imborrable en el torneo y ofreciendo a los aficionados un espectáculo inolvidable.
 <br>
 
-[![Comprehensive Markdown Crash Course](img/6.webp)](https://www.youtube.com/watch?v=y_iiYIrQOs8)
+[![Comprehensive Markdown Crash Course](imagen/6.webp)](https://www.youtube.com/watch?v=y_iiYIrQOs8)
